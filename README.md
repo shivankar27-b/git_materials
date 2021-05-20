@@ -1,3 +1,3 @@
 # git_materials
 Club KIT for juniors.
-Introduction to github and working on various branches
+Introduction to git and  github and working on various branches
